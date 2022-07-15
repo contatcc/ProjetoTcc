@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:text="Cadastre-se"
         android:textColor="#FFFFFF"
-        android:textSize="36dp"
+        android:textSize="35dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
